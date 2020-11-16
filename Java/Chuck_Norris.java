@@ -1,8 +1,5 @@
 package Java;
 import java.util.*;
-import java.io.*;
-import java.math.*;
-
 public class Chuck_Norris {
 
     public static void main(String args[]) 
@@ -12,7 +9,6 @@ public class Chuck_Norris {
         
         byte[] bytes = message.getBytes();
         String converted = "";
-        String answer = "";
         
         for (int i = 0; i < message.length(); i++)
         {
@@ -47,6 +43,7 @@ public class Chuck_Norris {
     		
     		if (i < converted.length())
     		    System.out.print(" ");
-        }    
+		}  
+		in.close();  
     }
 }

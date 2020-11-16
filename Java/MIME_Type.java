@@ -1,7 +1,5 @@
+package Java;
 import java.util.*;
-import javax.swing.text.html.parser.Entity;
-import java.io.*;
-import java.math.*;
 
 /**
  * Auto-generated code below aims at helping you parse

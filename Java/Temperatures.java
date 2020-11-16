@@ -1,7 +1,7 @@
 package Java;
 import java.util.*;
-import java.math.*;
-class Solution {
+
+class Temperatures {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         
