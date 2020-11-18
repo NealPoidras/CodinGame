@@ -1,4 +1,4 @@
-package Java;
+package Java.Facile;
 import java.util.*;
 
 class Temperatures {

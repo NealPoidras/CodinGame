@@ -1,4 +1,4 @@
-package Java;
+package Java.Moyen;
 
 import java.util.*;
 
