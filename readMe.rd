@@ -1,4 +1,4 @@
-#Welcome my CodinGame codes ! 
+#Welcome to my CodinGame codes ! 
 
 Hello world ! My Name is __Neal Poidras__ and i am a Engineer from **EFREI Paris**
 Here You can check my computer skills according to my differents codes in : 
