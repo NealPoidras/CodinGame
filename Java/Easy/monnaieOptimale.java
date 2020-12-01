@@ -1,6 +1,4 @@
-package Java.Facile;
-import java.util.*;
-import java.math.*;
+package Java.Easy;
 
 // ne pas modifier Monnaie
 class Monnaie {

@@ -1,5 +1,4 @@
-package Java.Moyen;
-
+package Java.Medium;
 import java.util.*;
 
 class Huffman implements Comparable<Huffman>{

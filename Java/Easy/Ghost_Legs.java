@@ -1,4 +1,4 @@
-package Java.Facile;
+package Java.Easy;
 import java.util.Scanner;
 
 public class Ghost_Legs
