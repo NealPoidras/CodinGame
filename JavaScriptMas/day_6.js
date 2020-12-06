@@ -4,8 +4,10 @@ const rl = readline.createInterface({
     input : process.stdin,
     output : process.stdout
 });
-function reverseAString(word)
-{
-    return word.split("").reverse();
-    
+function sortByLenght(array){
+    return array.sort(function(a,b){
+        return a.length-b.length;
+    });
 }
+
+console.log(sortByLenght(["abc", "", "aaa", "a", "zz"]));

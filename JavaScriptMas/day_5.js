@@ -6,7 +6,7 @@ const rl = readline.createInterface({
 });
 function reverseAString(word)
 {
-    return word.split("").reverse();
+    return word.split("").reverse().join("");
     
 }
 
