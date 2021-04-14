@@ -1,4 +1,4 @@
-def KnowTheRightBackAMount(cash=0):
+def KnowTheRightBackAMount(cash=0):  #this one  has a default for 11, and many other exception.
     ten = 0
     five= 0
     two = 0
@@ -35,4 +35,27 @@ def KnowTheRightBackAMount(cash=0):
         'ten':ten
     }
 
-print(KnowTheRightBackAMount(int(input("choose You're amount of money : "))))
+def KnowTheRightBackAMountBis(cash = 0):#This works for each case.
+    ten  = 0
+    five = 0
+    two = 0
+    if cash>=5:
+        if cash%5 !=0:
+            five = int(cash//5)
+            cash -=five*5
+            if cash%2 !=0:
+                cash+=5
+                five-=1
+                two = int(cash//2)
+            else : 
+                two = int(cash//2)
+        else :
+            five = cash//5 
+    if five //2 >0:
+
+        ten =  five//2
+        five = five%2
+
+    return {"two":two,"five:":five,"ten:":ten}
+
+print(KnowTheRightBackAMountBis(int(input("choose You're amount of money : "))))
