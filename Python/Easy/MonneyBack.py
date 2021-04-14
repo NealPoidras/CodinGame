@@ -35,7 +35,7 @@ def KnowTheRightBackAMount(cash=0):  #this one  has a default for 11, and many o
         'ten':ten
     }
 
-def KnowTheRightBackAMountBis(cash = 0):#This works for everyone case.
+def KnowTheRightBackAMountBis(cash = 0):#This works for each case.
     ten  = 0
     five = 0
     two = 0
