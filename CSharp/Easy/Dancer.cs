@@ -12,7 +12,7 @@ namespace Easy
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(getPositionAt(5));
+            Console.WriteLine(getPositionAt(Int32.Parse(Console.Read("Select the Position of the dancer you want to know : "))));
         }
     }
 }
