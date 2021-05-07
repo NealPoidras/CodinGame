@@ -1,0 +1,15 @@
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/obj/Debug/net5.0/Anagram.csprojAssemblyReference.cache
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/obj/Debug/net5.0/Anagram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/obj/Debug/net5.0/Anagram.AssemblyInfoInputs.cache
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/obj/Debug/net5.0/Anagram.AssemblyInfo.cs
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/obj/Debug/net5.0/Anagram.csproj.CoreCompileInputs.cache
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/bin/Debug/net5.0/Anagram.deps.json
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/bin/Debug/net5.0/Anagram.runtimeconfig.json
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/bin/Debug/net5.0/Anagram.runtimeconfig.dev.json
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/bin/Debug/net5.0/Anagram.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/bin/Debug/net5.0/ref/Anagram.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/bin/Debug/net5.0/Anagram.pdb
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/obj/Debug/net5.0/Anagram.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/obj/Debug/net5.0/ref/Anagram.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/obj/Debug/net5.0/Anagram.pdb
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Anagram/obj/Debug/net5.0/Anagram.genruntimeconfig.cache

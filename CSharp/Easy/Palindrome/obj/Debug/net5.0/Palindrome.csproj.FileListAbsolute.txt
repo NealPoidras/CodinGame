@@ -1,0 +1,15 @@
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/obj/Debug/net5.0/Palindrome.csprojAssemblyReference.cache
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/obj/Debug/net5.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfoInputs.cache
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfo.cs
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/obj/Debug/net5.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/bin/Debug/net5.0/Palindrome.deps.json
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.json
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.dev.json
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/bin/Debug/net5.0/Palindrome.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/bin/Debug/net5.0/ref/Palindrome.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/bin/Debug/net5.0/Palindrome.pdb
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/obj/Debug/net5.0/Palindrome.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/obj/Debug/net5.0/ref/Palindrome.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/obj/Debug/net5.0/Palindrome.pdb
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Palindrome/obj/Debug/net5.0/Palindrome.genruntimeconfig.cache
