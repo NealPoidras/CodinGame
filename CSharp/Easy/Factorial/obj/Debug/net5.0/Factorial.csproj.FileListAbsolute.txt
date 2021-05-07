@@ -1,0 +1,15 @@
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/obj/Debug/net5.0/Factorial.csprojAssemblyReference.cache
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/obj/Debug/net5.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/obj/Debug/net5.0/Factorial.AssemblyInfoInputs.cache
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/obj/Debug/net5.0/Factorial.AssemblyInfo.cs
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/obj/Debug/net5.0/Factorial.csproj.CoreCompileInputs.cache
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/bin/Debug/net5.0/Factorial.deps.json
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/bin/Debug/net5.0/Factorial.runtimeconfig.json
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/bin/Debug/net5.0/Factorial.runtimeconfig.dev.json
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/bin/Debug/net5.0/Factorial.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/bin/Debug/net5.0/ref/Factorial.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/bin/Debug/net5.0/Factorial.pdb
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/obj/Debug/net5.0/Factorial.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/obj/Debug/net5.0/ref/Factorial.dll
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/obj/Debug/net5.0/Factorial.pdb
+/Users/nealpoidras/Dev/Training Code/CodingGame/CSharp/Easy/Factorial/obj/Debug/net5.0/Factorial.genruntimeconfig.cache
